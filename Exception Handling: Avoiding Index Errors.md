@@ -23,7 +23,8 @@ except IndexError:
 
 
 ## Output
-![Uploading WhatsApp Image 2025-10-19 at 19.57.07_4f751c8e.jpg…]()
+![WhatsApp Image 2025-10-19 at 19 57 07_8c775b33](https://github.com/user-attachments/assets/bdffc442-6460-46a2-872a-e72153188b20)
+
 
 
 ## Result
