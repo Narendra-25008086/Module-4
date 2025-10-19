@@ -13,20 +13,17 @@ To write a Python program that handles an **IndexError** when trying to access a
 ## 🧾 Program
 Add code here
 ```
-# Define a list
-list1 = [10, 20, 30, 40]
+lst=[5, 10, 20]
 
-# Try to access an element out of range
 try:
-    print(list1[5])
+    print(lst[5])
 except IndexError:
-    print("You're out of list range")
+   print("You're out of list range")
 ```
 
 
 ## Output
-<img width="836" height="75" alt="image" src="https://github.com/user-attachments/assets/73f91f7f-7926-4cd7-8cb4-d070a41e6aaf" />
-
+![Uploading WhatsApp Image 2025-10-19 at 19.57.07_4f751c8e.jpg…]()
 
 
 ## Result
