@@ -12,22 +12,14 @@ To write a Python program that merges **two dictionaries** and combines their ke
 ## 🧾 Program
 Add code here
 ```
-# Define two dictionaries
-dict1 = {'a': 10, 'b': 20, 'c': 30}
-dict2 = {'d': 40, 'b': 50, 'e': 60}
-
-# Function to merge dictionaries
-def merge(d1, d2):
-    merged_dict = {**d1, **d2}  # Unpacking operator merges dictionaries
-    return merged_dict
-
-# Call the function and print the result
-merged_result = merge(dict1, dict2)
-print("Merged Dictionary:", merged_result)
+dict1=eval(input())
+dict2=eval(input())
+dict1.update(dict2)
+print(dict1)
 ```
 
 ## Output
-<img width="802" height="48" alt="image" src="https://github.com/user-attachments/assets/75fb488e-fb17-42a8-9d79-8df56b84e49c" />
+![WhatsApp Image 2025-10-19 at 19 53 58_d7894fa8](https://github.com/user-attachments/assets/d603307a-15dd-413f-be8d-3a1edb7e5da6)
 
 
 ## Result
